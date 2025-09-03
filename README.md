@@ -1,1 +1,1 @@
-# cp-gp
+# Low-rank + sparse kernel decomposition
